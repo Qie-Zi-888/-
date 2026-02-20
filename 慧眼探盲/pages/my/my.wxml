@@ -1,0 +1,23 @@
+<view class="img">
+  <image src="../../static/images/user.png" mode="widthFix"/>
+</view>
+
+<view class="img">
+  <image src="../../static/images/message.png" mode="widthFix"/>
+</view>
+
+<view class="img">
+  <image src="../../static/images/equipment.png" mode="widthFix"/>
+</view>
+
+<view class="img">
+  <image src="../../static/images/connect.png" mode="widthFix"/>
+</view>
+
+<view class="img">
+  <image src="../../static/images/set.png" mode="widthFix"/>
+</view>
+
+<view class="img">
+  <image src="../../static/images/relation.png" mode="widthFix"/>
+</view>

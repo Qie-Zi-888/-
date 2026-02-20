@@ -1,0 +1,73 @@
+/* pages/find/find.wxss */
+.img{
+  display: flex;
+  justify-content: center;
+}
+
+.img image{
+  height: 600rpx;
+  width: 750rpx;
+}
+
+.img1{
+  display: flex;
+  justify-content: center;
+}
+
+.img1 image{
+  width: 750rpx;
+}
+
+.tan-bg {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0; 
+  left: 0;
+  background-color: rgba(8, 8, 8, 0.5);
+  z-index: 0;
+}
+
+#sos_button{/*按钮*/
+  background-color: #f04131; /* 设置按钮背景颜色为红色 */
+  position: fixed; /* 确保按钮固定在页面上 */
+  bottom: 30rpx;   /* 调整位置为页面底部 */
+  height: 20%;
+  width: 300rpx;      /* 设置宽度，使其适配屏幕 */
+  left: 55%;       /* 居中显示按钮 */
+  z-index: 99;    /* 提高z-index，确保它位于最前 */
+  font-size: 2em; /* 设置字体大小为父元素的2倍 */
+
+  display: flex; /* 启用flex布局 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+}
+
+#Find_Device_button{
+  background-color: #4cb1f5;
+  position: fixed; /* 确保按钮固定在页面上 */
+  bottom: 30rpx;   /* 调整位置为页面底部 */
+  height: 20%;
+  width: 300rpx;      /* 设置宽度，使其适配屏幕 */
+  left: 5%;       /* 居中显示按钮 */
+  z-index: 99;    /* 提高z-index，确保它位于最前 */
+  /*font-size: 2em; /* 设置字体大小为父元素的2倍 */
+
+  display: flex; /* 启用flex布局 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+}
+
+#button-sos {/*弹窗*/
+  position: fixed;
+  width: 100%;
+  height: 600rpx; 
+  left: 0;
+  bottom: 400rpx;/* top: 200rpx;  */
+  background-color: #fff;
+  z-index: 999;
+
+  display: flex; /* 启用flex布局 */
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+}

@@ -1,0 +1,24 @@
+<view class="title">
+  选择模式
+</view>
+
+<view class="img">
+  <image src="../../static/images/peidaizhemoshi.png" mode="widthFix"/>
+</view>
+
+<view class="img">
+  <image src="../../static/images/zhaoguzhemoshi.png" mode="widthFix"/>
+</view>
+
+<view class="title1">
+  *在主页左上角中可进行模式切换
+</view>
+
+<view class="img1">
+  <image class="move" src="../../static/images/agreement.png" mode="widthFix"/>
+</view>
+
+<view class="img2">
+  <image class="move1" src="../../static/images/login.png" mode="widthFix"/>
+</view>
+

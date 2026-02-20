@@ -1,0 +1,17 @@
+.img{
+  display: flex;
+  justify-content: center;
+}
+
+.img image{
+  width: 750rpx;
+}
+
+.img1{
+  position: fixed;
+  bottom: 0;
+}
+
+.img1 image{
+  width: 750rpx;
+}

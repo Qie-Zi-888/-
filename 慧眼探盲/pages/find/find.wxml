@@ -1,0 +1,27 @@
+<!--pages/find/find.wxml-->
+<view class="img">
+  <image src="../../static/images/map1.png" mode=""/>
+</view>
+
+<view class="img1">
+  <image src="../../static/images/search.png" mode="widthFix"/>
+</view>
+
+<view class="img1">
+  <image src="../../static/images/equipment1.png" mode="widthFix"/>
+</view>
+
+
+<!-- SOS 按键 -->
+<button type="primary" bindtap="show_button_sos" id="sos_button">SOS</button>
+
+<!-- 查找设备 按键 -->
+<button type="primary"  id="Find_Device_button">查找我的设备</button>
+
+<!-- 蒙版 -->
+<view class="tan-bg" wx:if="{{isShow==true}}"></view>
+
+<!-- 弹窗 -->
+<view id="button-sos" wx:if="{{isShow==true}}">
+  <image src="../../static/images/sos弹窗.jpg" mode="widthFix"/>
+</view>
