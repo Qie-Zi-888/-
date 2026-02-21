@@ -24,7 +24,6 @@
 - 自动推送求助位置与现场环境描述
 <img width="1926" height="1599" alt="image" src="https://github.com/user-attachments/assets/62c44731-1e4d-4cff-a705-a66e024589ff" />
 
-
 ### 4. 出行规划与记录
 - 行程统计：每日/每周出行次数、时长、里程
 - 常用路线保存与快速导航
@@ -34,6 +33,7 @@
 - 支持多位家属同时绑定同一设备
 - 群组内消息互通（如“已安全到家”）
 - 权限分级：管理员（可解绑设备）、普通成员（仅查看）
+<img width="1926" height="1599" alt="image" src="https://github.com/user-attachments/assets/c86be1c9-bf58-46ea-98d6-24bcc37a7c25" />
 
 ---
 
