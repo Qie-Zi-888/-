@@ -35,6 +35,9 @@
 - 权限分级：管理员（可解绑设备）、普通成员（仅查看）
 <img width="1926" height="1599" alt="image" src="https://github.com/user-attachments/assets/c86be1c9-bf58-46ea-98d6-24bcc37a7c25" />
 
+### 6. 障碍物识别（硬件端）
+<img width="1782" height="1002" alt="image" src="https://github.com/user-attachments/assets/26a03851-7034-4205-843e-a5bb8ed5d2e0" />
+
 ---
 
 ## 🛠️ 技术栈
