@@ -11,12 +11,12 @@
 - 地图实时显示使用者当前位置
 - 记录每日出行轨迹与常走路线
 - 支持历史轨迹回放
-<img width="559" height="1097" alt="image" src="https://github.com/user-attachments/assets/fa3a12a1-47d8-45e2-a3b2-6877118026fe" />
 
 ### 2. 设备状态监控
 - 导盲终端电量实时显示（低电量自动提醒）
 - 设备在线/离线状态监测
 - 设备异常告警（如跌落、碰撞）
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/fa3a12a1-47d8-45e2-a3b2-6877118026fe" />
 
 ### 3. 紧急求助联动
 - **一键求助**：使用者按下SOS按钮，亲友端立即接收告警推送
