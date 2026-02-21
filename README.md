@@ -11,6 +11,7 @@
 - 地图实时显示使用者当前位置
 - 记录每日出行轨迹与常走路线
 - 支持历史轨迹回放
+<img width="559" height="1097" alt="image" src="https://github.com/user-attachments/assets/fa3a12a1-47d8-45e2-a3b2-6877118026fe" />
 
 ### 2. 设备状态监控
 - 导盲终端电量实时显示（低电量自动提醒）
@@ -21,7 +22,7 @@
 - **一键求助**：使用者按下SOS按钮，亲友端立即接收告警推送
 - **实时通话**：支持亲友与使用者双向语音联络
 - 自动推送求助位置与现场环境描述
-- <img width="1926" height="1599" alt="image" src="https://github.com/user-attachments/assets/62c44731-1e4d-4cff-a705-a66e024589ff" />
+<img width="1926" height="1599" alt="image" src="https://github.com/user-attachments/assets/62c44731-1e4d-4cff-a705-a66e024589ff" />
 
 
 ### 4. 出行规划与记录
