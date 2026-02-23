@@ -22,7 +22,7 @@
 - **一键求助**：使用者按下SOS按钮，亲友端立即接收告警推送
 - **实时通话**：支持亲友与使用者双向语音联络
 - 自动推送求助位置与现场环境描述
-<img width="1926" height="1599" alt="image" src="https://github.com/user-attachments/assets/62c44731-1e4d-4cff-a705-a66e024589ff" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/62c44731-1e4d-4cff-a705-a66e024589ff" />
 
 ### 4. 出行规划与记录
 - 行程统计：每日/每周出行次数、时长、里程
